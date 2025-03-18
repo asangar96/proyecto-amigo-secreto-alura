@@ -32,7 +32,6 @@ Esta es una aplicación web que permite realizar un sorteo de "Amigo Secreto" de
 
 ## Mejoras futuras
 - Implementar un diseño más atractivo con CSS.
-- Añadir la opción de exportar o guardar los resultados.
 - Soporte para múltiples sorteos sin necesidad de reiniciar el juego manualmente.
 
 ¡Diviértete sorteando! 🎉
